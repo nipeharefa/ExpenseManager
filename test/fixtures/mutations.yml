@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  initial_amount: 1
+  final_amount: 1
+  type: 
+  note: MyText
+  account_id: 
+  category_id: 1
+
+two:
+  initial_amount: 1
+  final_amount: 1
+  type: 
+  note: MyText
+  account_id: 
+  category_id: 1
